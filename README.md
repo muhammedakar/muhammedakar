@@ -8,6 +8,8 @@
 
 <p align="left">Hello! I'm Muhammed Akar from Turkey 🇹🇷 , I'm an Electrical and Electronics Engineer. My passion for technology and innovative solutions has led me to explore both Flutter and Data science.<br><br>My journey in mobile app development started with Flutter, aiming to create user-friendly and impactful experiences. Additionally, delving into data science allowed me to develop skills in generating data-driven solutions and interpreting information.<br><br>I've allocated space on my GitHub profile to share progress on my projects and new discoveries. I'm excited to embark on new technologies and projects together!</p>
 
+---
+
 ###
 
 <h4 align="left">🤖 Technologies I Use:</h4>
@@ -45,6 +47,8 @@
 </div>
 
 ###
+
+---
 
 <h4 align="left">👍 Social Media Accounts:</h4>
 
