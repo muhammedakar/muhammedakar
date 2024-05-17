@@ -48,7 +48,7 @@
 
 ###
 
----
+
 
 <h4 align="left">👍 Social Media Accounts:</h4>
 
@@ -67,16 +67,21 @@
 </div>
 
 ###
+---
 
+<h4 align="left">📈 My Stats:</h4>
+<br></br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedakar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedakar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedakar&background=ffffff&border=d3d3d3&stroke=1e90ff&ring=1e90ff&fire=1e90ff&currStreakNum=1e90ff&sideNums=1e90ff&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="muhammedakar" />
 </div>
 
-###
 
+<br></br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muhammedakar/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedakar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-light&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedakar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github-light&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
 
 ###
